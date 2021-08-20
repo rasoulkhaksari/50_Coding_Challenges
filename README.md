@@ -13,4 +13,6 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Container With Most Water**](Container_With_Most_Water.ipynb)
 
+- 📝 [**Boats to Save People**](Boats_to_Save_People.ipynb)
+
 
