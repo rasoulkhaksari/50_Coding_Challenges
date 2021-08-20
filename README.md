@@ -21,6 +21,7 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Missing Number**](Missing_Number.ipynb)
 
+- 📝 [**Count Primes**](Count_Primes.ipynb)
 
 
 
