@@ -19,3 +19,8 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**First and Last Position of Element in Sorted Array**](First_and_Last_Position_of_Element_in_Sorted_Array.ipynb)
 
+- 📝 [**Missing Number**](Missing_Number.ipynb)
+
+
+
+
