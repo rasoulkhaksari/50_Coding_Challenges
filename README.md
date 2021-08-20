@@ -8,3 +8,6 @@ Implementation of the 50 problems solved in the Leetcode in python
 - 📝 [**Move Zeroes**](Move_Zeroes.ipynb)
 
 - 📝 [**Valid Mountain Array**](Valid_Mountain_Array.ipynb)
+
+- 📝 [**First Bad Version**](First_Bad_Version.ipynb)
+
