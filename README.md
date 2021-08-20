@@ -15,4 +15,6 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Boats to Save People**](Boats_to_Save_People.ipynb)
 
+- 📝 [**Longest Substring Without Repeating Characters**](Longest_Substring_Without_Repeating_Characters.ipynb)
+
 
