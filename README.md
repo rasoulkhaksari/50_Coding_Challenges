@@ -23,5 +23,6 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Count Primes**](Count_Primes.ipynb)
 
+- 📝 [**Single Number**](Single_Number.ipynb)
 
 
