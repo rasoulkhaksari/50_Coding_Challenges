@@ -17,4 +17,5 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Longest Substring Without Repeating Characters**](Longest_Substring_Without_Repeating_Characters.ipynb)
 
+- 📝 [**First and Last Position of Element in Sorted Array**](First_and_Last_Position_of_Element_in_Sorted_Array.ipynb)
 
