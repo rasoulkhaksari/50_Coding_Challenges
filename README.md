@@ -35,4 +35,5 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Majority Element**](Majority_Element.ipynb)
 
+- 📝 [**Group Anagrams**](Group_Anagrams.ipynb)
 
