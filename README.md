@@ -29,5 +29,7 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Add Binary**](Add_Binary.ipynb)
 
+- 📝 [**Two Sum**](Two_Sum.ipynb)
+
 
 
