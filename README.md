@@ -1,4 +1,4 @@
-# **50 Coding Practices**
+# **50 Coding Challenges**
 Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Sliding Window**](sliding_window.ipynb)
