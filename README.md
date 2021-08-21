@@ -31,5 +31,8 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Two Sum**](Two_Sum.ipynb)
 
+- 📝 [**Contains Duplicate**](Contains_Duplicate.ipynb)
+
+- 📝 [**Majority Element**](Majority_Element.ipynb)
 
 
