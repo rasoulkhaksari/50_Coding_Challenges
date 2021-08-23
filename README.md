@@ -39,6 +39,10 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**4Sum**](4Sum.ipynb)
 
+- 📝 [**LRU Cache**](LRU_Cache.ipynb)
+
+
+
 
 
 
