@@ -53,6 +53,7 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Binary Tree Postorder Traversal**](Binary_Tree_Postorder_Traversal.ipynb)
 
+- 📝 [**Merge Two Sorted Lists**](Merge_Two_Sorted_Lists.ipynb)
 
 
 
