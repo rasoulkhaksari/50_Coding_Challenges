@@ -43,6 +43,9 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Minimum Window Substring**](Minimum_Window_Substring.ipynb)
 
+- 📝 [**Min Stack**](Min_Stack.ipynb)
+
+
 
 
 
