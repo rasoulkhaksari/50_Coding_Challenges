@@ -57,6 +57,7 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Linked List Cycle**](Linked_List_Cycle.ipynb)
 
+- 📝 [**Reverse Linked List**](Reverse_Linked_List.ipynb)
 
 
 
