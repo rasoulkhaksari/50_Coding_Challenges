@@ -47,6 +47,7 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Valid Parentheses**](Valid_Parentheses.ipynb)
 
+- 📝 [**Binary Tree Level Order Traversal**](Binary_Tree_Level_Order_Traversal.ipynb)
 
 
 
