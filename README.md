@@ -45,6 +45,11 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Min Stack**](Min_Stack.ipynb)
 
+- 📝 [**Valid Parentheses**](Valid_Parentheses.ipynb)
+
+
+
+
 
 
 
