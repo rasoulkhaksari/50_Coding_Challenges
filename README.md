@@ -51,6 +51,7 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Binary Tree Zigzag Level Order Traversal**](Binary_Tree_Zigzag_Level_Order_Traversal.ipynb)
 
+- 📝 [**Binary Tree Postorder Traversal**](Binary_Tree_Postorder_Traversal.ipynb)
 
 
 
