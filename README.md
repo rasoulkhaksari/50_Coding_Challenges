@@ -61,6 +61,7 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Add Two Numbers**](Add_Two_Numbers.ipynb)
 
+- 📝 [**Remove Nth Node From End of List**](Remove_Nth_Node_From_End_of_List.ipynb)
 
 
 
