@@ -63,6 +63,7 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Remove Nth Node From End of List**](Remove_Nth_Node_From_End_of_List.ipynb)
 
+- 📝 [**Odd Even Linked List**](Odd_Even_Linked_List.ipynb)
 
 
 
