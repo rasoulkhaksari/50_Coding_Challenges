@@ -75,4 +75,5 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Palindrome Partitioning**](Palindrome_Partitioning.ipynb)
 
+- 📝 [**Symmetric Tree**](Symmetric_Tree.ipynb)
 
