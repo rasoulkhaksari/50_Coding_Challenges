@@ -78,3 +78,12 @@ Implementation of the 50 problems solved in the Leetcode in python
 - 📝 [**Symmetric Tree**](Symmetric_Tree.ipynb)
 
 - 📝 [**Maximum Depth of Binary Tree**](Maximum_Depth_of_Binary_Tree.ipynb)
+
+- 📝 [**Path Sum**](Path_Sum.ipynb)
+
+
+
+
+
+
+
