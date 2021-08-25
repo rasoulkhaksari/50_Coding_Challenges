@@ -87,6 +87,7 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Serialize and Deserialize Binary Tree**](Serialize_Deserialize_BTree.ipynb)
 
+- 📝 [**Binary Tree Maximum Path Sum**](Binary_Tree_Maximum_Path_Sum.ipynb)
 
 
 
