@@ -81,6 +81,8 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Path Sum**](Path_Sum.ipynb)
 
+- 📝 [**Lowest Common Ancestor of a Binary Tree**](Lowest_Common_Ancestor_of_a_Binary_Tree.ipynb)
+
 
 
 
