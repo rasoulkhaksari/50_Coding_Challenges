@@ -103,6 +103,7 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Longest Palindromic Substring**](Longest_Palindromic_Substring.ipynb)
 
+- 📝 [**Trapping Rain Water**](Trapping_Rain_Water.ipynb)
 
 
 
