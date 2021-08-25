@@ -99,6 +99,8 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Coin Change**](Coin_Change.ipynb)
 
+- 📝 [**Unique Paths**](Unique_Paths.ipynb)
+
 
 
 
