@@ -101,6 +101,7 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Unique Paths**](Unique_Paths.ipynb)
 
+- 📝 [**Longest Palindromic Substring**](Longest_Palindromic_Substring.ipynb)
 
 
 
