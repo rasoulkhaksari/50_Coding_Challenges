@@ -85,6 +85,7 @@ Implementation of the 50 problems solved in the Leetcode in python
 
 - 📝 [**Kth Smallest Element in a BST**](Kth_Smallest_Element_in_a_BST.ipynb)
 
+- 📝 [**Serialize and Deserialize Binary Tree**](Serialize_Deserialize_BTree.ipynb)
 
 
 
